@@ -1,0 +1,11 @@
+div {
+    height: 100px;
+    width: 150px;
+    border: 2px solid black;
+}
+
+#box1 {
+    background-image: url("cat.jpeg");
+    background-size: cover;
+
+}

@@ -1,0 +1,39 @@
+* {
+    background-color: blanchedalmond;
+}
+
+
+div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    background-color: brown;
+    font-size: 20px;
+    border-radius: 50px;
+    position: absolute;
+    display: inline-block;
+    
+}
+#box1{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    background-image: url("pizza.jpeg");
+    background-size: cover;
+}
+
+#box2{
+    position: relative;
+    top: 0px;
+    left: 110px;
+    background-image: url("biryani.jpeg");
+    background-size: cover;
+    display: inline-block;
+}
+#box3{
+    position: relative;
+    top: 2px;
+    left: 250px;
+    background-image: url("biryani.jpeg");
+    background-size: cover;
+}
